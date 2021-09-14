@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class checkFibonaci {
+public class CheckFibonaci {
     public static void main(String[] args) {
 
         // Generate fibonaci
