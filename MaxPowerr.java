@@ -1,7 +1,7 @@
 import java.util.*;
 import java.math.BigInteger;
 
-public class maxPowerr {
+public class MaxPowerr {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         // truyền vào 2 số n và x
